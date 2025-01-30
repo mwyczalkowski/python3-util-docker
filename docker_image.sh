@@ -1,2 +1,2 @@
-IMAGE="mwyczalkowski/python3-util:20250123"
+IMAGE="mwyczalkowski/python3-util:20250130"
 
